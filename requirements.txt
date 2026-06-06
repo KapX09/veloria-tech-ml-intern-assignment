@@ -1,0 +1,8 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==2.2.2
+scikit-learn==1.5.0
+sentence-transformers==3.0.1
+chromadb>=0.5.3
+numpy<2.0
+joblib
